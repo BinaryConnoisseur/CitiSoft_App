@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitiSoft_App", "CitiSoft_App\CitiSoft_App.csproj", "{5B2739CD-DB52-440C-9A1B-7FD4092AB10F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B2739CD-DB52-440C-9A1B-7FD4092AB10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2739CD-DB52-440C-9A1B-7FD4092AB10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2739CD-DB52-440C-9A1B-7FD4092AB10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2739CD-DB52-440C-9A1B-7FD4092AB10F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E9DC6EC-6BC5-4A9A-AE61-F461A53A96D2}
+	EndGlobalSection
+EndGlobal
