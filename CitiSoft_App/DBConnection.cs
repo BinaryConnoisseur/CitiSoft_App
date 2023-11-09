@@ -10,11 +10,12 @@ namespace CitiSoft_App
     {
         private DBConnection instance;
 
-        private string DBConnectionString;
+        private string CitisoftDBConnection;
 
         private DBConnection() 
         {
-            
+            //Leaving a comment here to test
+            CitisoftDBConnection = Properties.Settings.Default.CitisoftDBConnection;
         }
     }
 }
